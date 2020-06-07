@@ -1,3 +1,4 @@
+alert(" click on colored boxes to select a color for your background");
 var css = document.querySelector("h3");
 // to select elements
 var color1 = document.querySelector(".color1");
